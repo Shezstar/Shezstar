@@ -1,4 +1,4 @@
-# Hi, I'm Shazia Khan! 👋
+# Hi, I'm Shazia! 👋
 
 ### 🚀 About Me
 I’m a passionate tech enthusiast with a strong background in Information Technology and years of professional experience in customer service and training. Currently, I’m diving deeper into the world of data analytics, SQL development, and Python programming, aiming to transition into data science and AI.
