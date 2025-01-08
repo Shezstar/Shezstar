@@ -1,4 +1,8 @@
-# Hi, I'm Shazia! 👋
+# Hi I'm Shazia! 
+
+Welcome to my GitHub! Here, you can find my projects related to data analytics, SQL, Python, web scraping, and more. I'm passionate about solving real-world problems with data and continually learning to improve my skills.
+
+---
 
 ### 🚀 About Me
 I’m a passionate tech enthusiast with a strong background in Information Technology and years of professional experience in customer service and training. Currently, I’m diving deeper into the world of data analytics, SQL development, and Python programming, aiming to transition into data science and AI.
@@ -29,8 +33,13 @@ I’m a passionate tech enthusiast with a strong background in Information Techn
 - [GitHub Repo](https://github.com/Shezstar/SQL-Finance-Analytics)  
 
 #### 3. **Web Scraping with Python**
-- Built a script using Python and BeautifulSoup to extract Flipkart data for mobile phones under 10,000 INR.  
+- Built a script using Python and BeautifulSoup to extract Flipkart data for mobile phones under 50,000 INR.  
 - Analyzed customer preferences and budget-friendly options.  
+- [GitHub Repo](https://github.com/Shezstar/Web-Scraping-in-Python)  
+
+#### 4. **Hospitality Data Analysis (Python)**
+- Conducted an in-depth analysis of hospitality industry data using Python, focusing on key trends, customer preferences, and market segmentation.  
+- [GitHub Repo](https://github.com/Shezstar/Hospitality-Analysis-Python) | [Presentation Video](https://www.youtube.com/watch?v=WHkOlX9gpRg&t=1s)  
 
 ---
 
@@ -41,10 +50,6 @@ I’m a passionate tech enthusiast with a strong background in Information Techn
 ---
 
 ### 🌟 Fun Fact
-I loved reading “Storytelling with Data” by Cole Nussbaumer Knaflic—it’s a must-read for anyone in data analytics!  
+I loved reading “Storytelling with Data” by Cole Nussbaumer Knaflic.
 
 ---
-
-### 🤝 Let’s Connect!
-- **LinkedIn**: [Shazia Khan](https://www.linkedin.com/in/shazia-khan-593a41324)  
-- **GitHub**: [Shezstar](https://github.com/Shezstar)  
