@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shazia!  
 
-Welcome to my GitHub! 🌟 Here you’ll find my projects showcasing my journey in **data analytics, Excel , SQL, Python, and web scraping**. I’m passionate about solving real-world problems with data and continuously learning to grow my skillset.  
+Welcome to my GitHub! Here you’ll find my projects showcasing my journey in **data analytics, Excel , SQL, Python, and web scraping**. I’m passionate about solving real-world problems with data and continuously learning to grow my skillset.  
 
 ---
 
